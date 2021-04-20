@@ -63,6 +63,7 @@ public class AleatorioEmple {
 		}
 		System.out.println("Añado cambio 1");
 		System.out.println("Añado cambio 2");
+		System.out.println("Añado cambio 3");
 		file.close();
 	}// fin crear
 
