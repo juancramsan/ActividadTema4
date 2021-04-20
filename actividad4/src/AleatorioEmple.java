@@ -61,6 +61,7 @@ public class AleatorioEmple {
 			file.writeInt(dep[i]);
 			file.writeDouble(salario[i]);
 		}
+		System.out.println("Añado cambio 1");
 		file.close();
 	}// fin crear
 
