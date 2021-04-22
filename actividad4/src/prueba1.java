@@ -3,6 +3,9 @@ public class prueba1 {
 	
 	public static void main (String[] args){
 		System.out.println("Incluyo class prueba1");
+		System.out.println("Incluyo class prueba2");
+		
+		
 	}
 	
 	
